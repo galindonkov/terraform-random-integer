@@ -21,6 +21,7 @@ A project related to how to configure a terraform `random_integer` provider
 - Execute `terraform plan` to generate and show an execution plan based on the configured `main.tf` file
 
 - You are now ready to proceed with the execution itself by `terraform apply` and get you new infrastructure.
-  NOTE: The command will require an execution confirmation either with `yes` or `no`.                  
+
+  > NOTE: The command will require an execution confirmation either with `yes` or `no`.                  
    
 - After you finish, you can destroy your currect infrastructure by `terraform destroy`
