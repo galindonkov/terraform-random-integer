@@ -6,7 +6,7 @@ A project related to how to configure a terraform `random_integer` provider
 
 - Terraform installation : [Installation process ](https://learn.hashicorp.com/terraform/getting-started/install.html)
 
-### The repo is having followin file
+### The repo is having following file
 
 - main.tf : Terraform configuration file
 
